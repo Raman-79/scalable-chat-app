@@ -9,6 +9,7 @@ Run the following command:
 ```sh
 npx create-turbo@latest
 ```
+![Scalable Chat App Demo](https://github.com/Raman-79/scalable-chat-app/assets/118994443/a782c61c-0e2b-45ca-91f9-09e409ac3e95)
 
 ## What's inside?
 
